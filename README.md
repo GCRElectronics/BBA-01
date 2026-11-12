@@ -6,4 +6,9 @@ The board contains an ON/OFF slider switch and the voltage applied to its barrel
 Max current 3A.
 
 Amazon link:
+
 https://www.amazon.com/s?me=A294QTWT0LO130&marketplaceID=ATVPDKIKX0DER
+
+Tindie link:
+
+https://www.tindie.com/products/44593/
